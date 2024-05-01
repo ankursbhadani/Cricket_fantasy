@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>395764889426-nk08u5tnit1trfpm6tc0c4n2n9q4s4cl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.395764889426-nk08u5tnit1trfpm6tc0c4n2n9q4s4cl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>395764889426-ki2vp31h59o8qinqvcfqpgpr7hs27s7c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCKA1j3riyB0nzuz2Kp-9xKYnKHv3Q9zyQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>395764889426</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.newTeam</string>
+	<key>PROJECT_ID</key>
+	<string>kheloindia-b7d61</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kheloindia-b7d61.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:395764889426:ios:e464bb8ab61c6218efec8b</string>
+	<key>DATABASE_URL</key>
+	<string>https://kheloindia-b7d61-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

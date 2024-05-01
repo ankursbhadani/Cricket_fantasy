@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878089355365",
+    "project_id": "newteam-d85e9",
+    "storage_bucket": "newteam-d85e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878089355365:android:1f8f85b385df6efc74068c",
+        "android_client_info": {
+          "package_name": "com.example.new_team"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0iF-1fyf0RmaAGO0P2JEme_im0hAjpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
